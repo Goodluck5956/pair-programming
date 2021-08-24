@@ -1,0 +1,20 @@
+.course {
+    /*display: flex;*/
+    align-self: flex-end;
+    padding: 16px 36px 0 16px;
+    list-style: none;
+}
+
+.course li {
+    font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #6070ff;
+  border: 1px solid #dadbff;
+  border-radius: 0.5rem;
+  padding: 0 3.2px;
+  margin-right: 16px;
+  background-color: #ebebff;
+  float: left;
+}
