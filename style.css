@@ -18,3 +18,17 @@
   background-color: #ebebff;
   float: left;
 }
+
+.flex-button {
+  display: flex;
+  list-style: none;
+  padding: 4px 12px;
+}
+
+.custom-button {
+  background: #ebebff;
+  border-radius: 8px;
+  color: #6070ff;
+  border: none;
+  padding: 5px 10px;
+}
